@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+
+body {
+  font-family: 'Montserrat';
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+h2 {
+  display: inline;
+  padding-right: 2rem;
+}
